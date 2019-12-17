@@ -5,7 +5,7 @@
 # Youtube Channel: https://goo.gl/fvkdwm 
 #=================================================
 
-name: KR_x86_64
+name: Bulid_x86_64
 
 on: 
   release:
